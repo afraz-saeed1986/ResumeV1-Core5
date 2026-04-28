@@ -1,0 +1,17 @@
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.deps.json
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Application.pdb
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Domain.pdb
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\bin\Debug\net5.0\Resume.Infra.Data.pdb
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.AssemblyReference.cache
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.GeneratedMSBuildEditorConfig.editorconfig
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfoInputs.cache
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.AssemblyInfo.cs
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.csproj.CoreCompileInputs.cache
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.A.10C33A57.Up2Date
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\refint\Resume.Application.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll

@@ -1,0 +1,11 @@
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\bin\Debug\net5.0\Resume.Domain.deps.json
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\bin\Debug\net5.0\Resume.Domain.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\bin\Debug\net5.0\Resume.Domain.pdb
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.AssemblyInfoInputs.cache
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.AssemblyInfo.cs
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.csproj.CoreCompileInputs.cache
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\refint\Resume.Domain.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.pdb
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\ref\Resume.Domain.dll
