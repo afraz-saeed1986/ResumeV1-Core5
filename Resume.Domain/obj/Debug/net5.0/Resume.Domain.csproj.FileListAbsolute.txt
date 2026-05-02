@@ -9,3 +9,4 @@ J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\D
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\refint\Resume.Domain.dll
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.pdb
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\ref\Resume.Domain.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Domain\obj\Debug\net5.0\Resume.Domain.sourcelink.json

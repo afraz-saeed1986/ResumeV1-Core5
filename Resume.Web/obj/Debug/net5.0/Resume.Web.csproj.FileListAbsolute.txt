@@ -85,3 +85,5 @@ J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debu
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.pdb
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.genruntimeconfig.cache
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.sourcelink.json
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_ThingIDoPartial.cshtml.g.cs

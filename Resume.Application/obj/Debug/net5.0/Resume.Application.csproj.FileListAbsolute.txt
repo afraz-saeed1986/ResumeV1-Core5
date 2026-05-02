@@ -15,3 +15,4 @@ J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\refint\Resume.Application.dll
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.pdb
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\ref\Resume.Application.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Application\obj\Debug\net5.0\Resume.Application.sourcelink.json

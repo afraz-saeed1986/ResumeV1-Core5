@@ -16,3 +16,4 @@ J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Data\o
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Data\obj\Debug\net5.0\Resume.Infra.Data.pdb
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Data\obj\Debug\net5.0\Resume.Infra.Data.genruntimeconfig.cache
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Data\obj\Debug\net5.0\ref\Resume.Infra.Data.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Data\obj\Debug\net5.0\Resume.Infra.Data.sourcelink.json

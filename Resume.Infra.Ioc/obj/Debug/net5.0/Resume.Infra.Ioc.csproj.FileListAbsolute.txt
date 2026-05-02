@@ -17,3 +17,4 @@ J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Ioc\ob
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Ioc\obj\Debug\net5.0\refint\Resume.Infra.Ioc.dll
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Ioc\obj\Debug\net5.0\Resume.Infra.Ioc.pdb
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Ioc\obj\Debug\net5.0\ref\Resume.Infra.Ioc.dll
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Infra.Ioc\obj\Debug\net5.0\Resume.Infra.Ioc.sourcelink.json

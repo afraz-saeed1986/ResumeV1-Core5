@@ -1,9 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Resume.Infra.Data.Context;
+using Resume.Infra.Ioc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,6 +27,22 @@ namespace Resume.Web
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            #region Add DBContext
+            services.AddDbContext<AppDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
+            #endregion
+
+            #region Services
+              RegisterServices(services);
+            #endregion
+        }
+
+        public static void RegisterServices(IServiceCollection services)
+        {
+            DependencyContainers.RegisterServices(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
