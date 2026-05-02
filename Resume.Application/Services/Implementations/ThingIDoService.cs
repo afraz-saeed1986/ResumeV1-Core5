@@ -1,4 +1,5 @@
-﻿using Resume.Application.Services.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using Resume.Application.Services.Interfaces;
 using Resume.Domain.ViewModels.ThingIDo;
 using Resume.Infra.Data.Context;
 using System;
@@ -18,9 +19,9 @@ namespace Resume.Application.Services.Implementations
             _context = context;
         }
         #endregion
-        public List<ThingIDoListViewModel> GetAllThingIDoForIndex()
+        public async Task<List<ThingIDoListViewModel>> GetAllThingIDoForIndex()
         {
-            List<ThingIDoListViewModel> thingIDos = _context.ThingIDos.OrderBy(t => t.Order).Select(t => new ThingIDoListViewModel()
+            List<ThingIDoListViewModel> thingIDos = await _context.ThingIDos.OrderBy(t => t.Order).Select(t => new ThingIDoListViewModel()
             {
                 Id = t.Id,
                 ColumnLg = t.ColumnLg,
@@ -28,7 +29,7 @@ namespace Resume.Application.Services.Implementations
                 Order = t.Order,
                 Icon = t.Icon,
                 Title = t.Title,
-            }).ToList();
+            }).ToListAsync();
 
             return thingIDos;
         }

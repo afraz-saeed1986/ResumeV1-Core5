@@ -10,6 +10,7 @@ namespace Resume.Infra.Ioc
         public static void RegisterServices(IServiceCollection service)
         {
             service.AddScoped<IThingIDoService, ThingIDoService>();
+            service.AddScoped<ICustomerFeedbackService, CustomerFeedbackService>();
         }
     }
 }

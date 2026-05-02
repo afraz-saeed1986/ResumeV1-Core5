@@ -1,12 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using Resume.Application.Services.Interfaces;
 using Resume.Domain.ViewModels.Page;
-using Resume.Web.Models;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
+
 using System.Threading.Tasks;
 
 namespace Resume.Web.Controllers
@@ -15,18 +10,21 @@ namespace Resume.Web.Controllers
     {
         #region Constructor
         private readonly IThingIDoService _thingIDoService;
+        private readonly ICustomerFeedbackService _customerFeedbackService;
 
-        public HomeController(IThingIDoService thingIDoService)
+        public HomeController(IThingIDoService thingIDoService, ICustomerFeedbackService customerFeedbackService)
         {
-                _thingIDoService = thingIDoService; 
+            _thingIDoService = thingIDoService;
+            _customerFeedbackService = customerFeedbackService;
         }
         #endregion
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
             IndexPageViewModel model = new IndexPageViewModel()
             {
-                ThingIDoList = _thingIDoService.GetAllThingIDoForIndex()
+                ThingIDoList = await _thingIDoService.GetAllThingIDoForIndex(),
+                CustomerFeedbackList = await _customerFeedbackService.GetCustomerFeedbackForIndex()
             };
 
 

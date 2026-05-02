@@ -19,6 +19,8 @@ namespace Resume.Infra.Data.Context
 
         #region DbSet
          public DbSet<ThingIDo> ThingIDos { get; set; }
+        public DbSet<CustomerFeedback> CustomerFeedbacks { get; set; }
+
         #endregion
 
         #region On Model Creating

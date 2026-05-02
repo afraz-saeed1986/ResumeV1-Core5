@@ -1,4 +1,4 @@
-﻿using Resume.Domain.ViewModels.ThingIDo;
+﻿using Resume.Domain.ViewModels.CustomerFeedback;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace Resume.Application.Services.Interfaces
 {
-    public interface IThingIDoService
+    public interface ICustomerFeedbackService
     {
-        Task<List<ThingIDoListViewModel>> GetAllThingIDoForIndex();
+        Task<List<CustomerFeedbackViewModel>> GetCustomerFeedbackForIndex();
     }
 }
