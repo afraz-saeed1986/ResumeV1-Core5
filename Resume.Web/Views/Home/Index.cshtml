@@ -11,3 +11,8 @@
     <partial name="_ThingIDoPartial" model="@Model.ThingIDoList" />
 }
 
+@if (Model.CustomerFeedbackList != null && Model.CustomerFeedbackList.Any())
+{
+    <partial name="_CustomerFeedbackPartial" model="@Model.CustomerFeedbackList" />
+}
+

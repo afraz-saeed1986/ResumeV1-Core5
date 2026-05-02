@@ -87,3 +87,4 @@ J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debu
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\ref\Resume.Web.dll
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Resume.Web.sourcelink.json
 J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_ThingIDoPartial.cshtml.g.cs
+J:\Learning And Training\2026\TopLearn\1-CreateResume\Resume\Resume.Web\obj\Debug\net5.0\Razor\Views\Home\_CustomerFeedbackPartial.cshtml.g.cs
